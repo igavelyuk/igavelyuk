@@ -2,14 +2,15 @@
 <h1 align="center">Hi 👋, I'm Igor Gavelyuk but everybody call me iGavelyuk and I'm not an apple fan.</h1>
 <h3 align="center">A passionate frontend developer from almost United States</h3>
 <div style="font-size: 28px">
-- ⚛️ My primary programming language is JavaScript, also using a lot PHP and BASH
-- - ⚛️ My primary frameworks is Vue, Preact and React
-- ⚛️ My secondary languages is C++, HTML, CSS (SASS+SCSS), have experience to compile web pages as CGI scripts
-- 😄 Working in the industry since 2016 (5y)
-- 🌱 I’m currently learning how to become little more than web developer.
-- 🔭 I’m currently working on web marketplaces and web shops.
-- ⚡ Fun fact: Never have jobs in my place and in my country. 3 Times apply for jobs under 400 USD per months and never get.
-</div>
+<ul>
+  <li style="font-size: 38px"> ⚛️ My primary programming language is JavaScript, also using a lot PHP and BASH</li>
+  <li style="font-size: 38px">⚛️ My primary frameworks is Vue, Preact and React</li>
+  <li style="font-size: 38px">⚛️ My secondary languages is C++, HTML, CSS (SASS+SCSS), have experience to compile web pages as CGI scripts</li>
+  <li style="font-size: 38px">😄 Working in the industry since 2016 (5y)</li>
+  <li style="font-size: 38px">🌱 I’m currently learning how to become little more than web developer</li>
+  <li style="font-size: 38px">🔭 I’m currently working on web marketplaces and web shops</li>
+  <li style="font-size: 38px">⚡ Fun fact: Never have jobs in my place and in my country. 3 Times apply for jobs under 400 USD per months and never get</li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/igavelyuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="igavelyuk" height="30" width="40" /></a>
