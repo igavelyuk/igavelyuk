@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=igavelyuk&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px%22
 <!--
 **igavelyuk/igavelyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
