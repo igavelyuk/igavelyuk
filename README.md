@@ -1,4 +1,12 @@
 ### Hi there 👋
+## My name Igor Gavelyuk but everybody call me iGavelyuk and I'm not an apple fan.
+- ⚛️ My primary programming language is JavaScript, also using a lot PHP and BASH
+- - ⚛️ My primary frameworks is Vue, Preact and React
+- ⚛️ My secondary languages is C++, HTML, CSS (SASS+SCSS), have experience to compile web pages as CGI sripts
+- 😄 Working in the industry since 2016 (5y)
+- 🌱 I’m currently learning how to become little more than web developer.
+- 🔭 I’m currently working on web marketplaces and web shops.
+- ⚡ Fun fact: Never have jobs in my place and in my country. 3 Times apply for jobs under 400 USD per months and never get.
 ![codersrank.io stat](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=igavelyuk&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px%22 "codersrank.io")
 
 <!--
