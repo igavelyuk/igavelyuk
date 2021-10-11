@@ -2,7 +2,7 @@
 ## My name Igor Gavelyuk but everybody call me iGavelyuk and I'm not an apple fan.
 - ⚛️ My primary programming language is JavaScript, also using a lot PHP and BASH
 - - ⚛️ My primary frameworks is Vue, Preact and React
-- ⚛️ My secondary languages is C++, HTML, CSS (SASS+SCSS), have experience to compile web pages as CGI sripts
+- ⚛️ My secondary languages is C++, HTML, CSS (SASS+SCSS), have experience to compile web pages as CGI scripts
 - 😄 Working in the industry since 2016 (5y)
 - 🌱 I’m currently learning how to become little more than web developer.
 - 🔭 I’m currently working on web marketplaces and web shops.
