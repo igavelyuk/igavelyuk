@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Igor Gavelyuk but everybody call me iGavelyuk and I'm not an apple fan.</h1>
 <h3 align="center">A passionate frontend developer from almost United States</h3>
 <div style="font-size: 28px">
+<img align="center" src="https://github.com/igavelyuk/igavelyuk/blob/main/donut1.gif" alt="Donut" />
 <ul>
   <li style="font-size: 38px"> ⚛️ My primary programming language is JavaScript, also using a lot PHP and BASH</li>
   <li style="font-size: 38px">⚛️ My primary frameworks is Vue, Preact and React</li>
