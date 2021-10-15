@@ -17,8 +17,6 @@
 <a href="https://linkedin.com/in/igavelyuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igavelyuk" height="30" width="40" /></a>
 <a href="https://instagram.com/igavelyuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igavelyuk" height="30" width="40" /></a>
 <a href="https://medium.com/@igavelyuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@igavelyuk" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/igavelyuk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="igavelyuk" height="30" width="40" /></a>
-</p>
 
 <table style="width:100%; border:none; border-collapse:collapse; cellspacing:0;>
   <tr style="border:none">
