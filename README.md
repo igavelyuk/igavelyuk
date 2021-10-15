@@ -4,12 +4,6 @@
 <div style="font-size: 28px">
 <img align="center" src="https://github.com/igavelyuk/igavelyuk/blob/main/donut1.gif" alt="Donut" />
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="Donut" src="https://codepen.io/igavelyuk/embed/jOmwVJB?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/igavelyuk/pen/jOmwVJB">
-  Donut</a> by Igor Gavelyuk (<a href="https://codepen.io/igavelyuk">@igavelyuk</a>)
-  on <a href="https://codepen.io">CodePen</a>.
-</iframe>
-
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 <ul>
   <li style="font-size: 38px"> ⚛️ My primary programming language is JavaScript, also using a lot PHP and BASH</li>
