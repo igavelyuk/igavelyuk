@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/igavelyuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="igavelyuk" height="30" width="40" /></a>
-<a style="background:white" href="https://dev.to/igavelyuk" target="blank"><img style="background:white" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="igavelyuk" height="30" width="40" /></a>
+<div style="background:white" > <a href="https://dev.to/igavelyuk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="igavelyuk" height="30" width="40" /></a></div>
 <a href="https://twitter.com/igavelyuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="igavelyuk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/igavelyuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igavelyuk" height="30" width="40" /></a>
 <a href="https://instagram.com/igavelyuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igavelyuk" height="30" width="40" /></a>
