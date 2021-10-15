@@ -19,15 +19,20 @@
 <a href="https://medium.com/@igavelyuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@igavelyuk" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/igavelyuk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="igavelyuk" height="30" width="40" /></a>
 </p>
-<div style="font-size: 6px">
-<pre style="font-size: 6px">
-███████╗██████╗░██╗░░░██╗██████╗░  ░█████╗░░█████╗░██████╗░██████╗░██████╗░
-╚════██║██╔══██╗██║░░░██║╚════██╗  ██╔══██╗██╔══██╗██╔══██╗╚════██╗██╔══██╗
-░░░░██╔╝██████╔╝██║░░░██║░█████╔╝  ██║░░╚═╝██║░░██║██║░░██║░█████╔╝██████╔╝
-░░░██╔╝░██╔══██╗██║░░░██║░╚═══██╗  ██║░░██╗██║░░██║██║░░██║░╚═══██╗██╔══██╗
-░░██╔╝░░██║░░██║╚██████╔╝██████╔╝  ╚█████╔╝╚█████╔╝██████╔╝██████╔╝██║░░██║
-░░╚═╝░░░╚═╝░░╚═╝░╚═════╝░╚═════╝░  ░╚════╝░░╚════╝░╚═════╝░╚═════╝░╚═╝░░╚═╝
-</pre>
+<div style="font-size: 6px; display:inline-block">
+  <div style="font-size: 6px">
+    <pre style="font-size: 6px">
+    ███████╗██████╗░██╗░░░██╗██████╗░  ░█████╗░░█████╗░██████╗░██████╗░██████╗░
+    ╚════██║██╔══██╗██║░░░██║╚════██╗  ██╔══██╗██╔══██╗██╔══██╗╚════██╗██╔══██╗
+    ░░░░██╔╝██████╔╝██║░░░██║░█████╔╝  ██║░░╚═╝██║░░██║██║░░██║░█████╔╝██████╔╝
+    ░░░██╔╝░██╔══██╗██║░░░██║░╚═══██╗  ██║░░██╗██║░░██║██║░░██║░╚═══██╗██╔══██╗
+    ░░██╔╝░░██║░░██║╚██████╔╝██████╔╝  ╚█████╔╝╚█████╔╝██████╔╝██████╔╝██║░░██║
+    ░░╚═╝░░░╚═╝░░╚═╝░╚═════╝░╚═════╝░  ░╚════╝░░╚════╝░╚═════╝░╚═════╝░╚═╝░░╚═╝
+    </pre>
+  </div">
+ <div style="font-size: 6px">
+  <img align="center" src="https://github.com/igavelyuk/igavelyuk/blob/main/donut.gif" alt="donut" height="150" width="150" />
+ </div">
 </div">
 
 <h3 align="left">Languages and Tools:</h3>
