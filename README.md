@@ -3,6 +3,14 @@
 <h3 align="center">A passionate frontend developer from almost United States</h3>
 <div style="font-size: 28px">
 <img align="center" src="https://github.com/igavelyuk/igavelyuk/blob/main/donut1.gif" alt="Donut" />
+
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="jOmwVJB" data-user="igavelyuk" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/igavelyuk/pen/jOmwVJB">
+  Donut</a> by Igor Gavelyuk (<a href="https://codepen.io/igavelyuk">@igavelyuk</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 <ul>
   <li style="font-size: 38px"> ⚛️ My primary programming language is JavaScript, also using a lot PHP and BASH</li>
   <li style="font-size: 38px">⚛️ My primary frameworks is Vue, Preact and React</li>
