@@ -33,7 +33,7 @@
     </pre>
     </th>
     <th style="border:none">
-    <img align="center" src="https://github.com/igavelyuk/igavelyuk/blob/main/donut.gif" alt="donut" height="120" width="120" />
+    <img align="center" style="margin:0px; padding:0px;" src="https://github.com/igavelyuk/igavelyuk/blob/main/donut.gif" alt="donut" height="160" width="160" />
     </th>
   </tr>
 </table>
