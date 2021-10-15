@@ -20,9 +20,9 @@
 <a href="https://www.topcoder.com/members/igavelyuk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="igavelyuk" height="30" width="40" /></a>
 </p>
 
-<table style="width:100%">
-  <tr>
-    <th>
+<table style="width:100%; border:none; border-collapse:collapse; cellspacing:0;>
+  <tr style="border:none">
+    <th style="border:none">
     <pre style="font-size: 6px">
     ███████╗██████╗░██╗░░░██╗██████╗░  ░█████╗░░█████╗░██████╗░██████╗░██████╗░
     ╚════██║██╔══██╗██║░░░██║╚════██╗  ██╔══██╗██╔══██╗██╔══██╗╚════██╗██╔══██╗
@@ -32,7 +32,7 @@
     ░░╚═╝░░░╚═╝░░╚═╝░╚═════╝░╚═════╝░  ░╚════╝░░╚════╝░╚═════╝░╚═════╝░╚═╝░░╚═╝
     </pre>
     </th>
-    <th>
+    <th style="border:none">
     <img align="center" src="https://github.com/igavelyuk/igavelyuk/blob/main/donut.gif" alt="donut" height="120" width="120" />
     </th>
   </tr>
