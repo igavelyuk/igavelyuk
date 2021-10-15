@@ -39,9 +39,11 @@
 </table>
 
 <h3 align="left">Languages and Tools:</h3>
+<div style="display:inline-block">
 <img align="center" src="https://github.com/igavelyuk/igavelyuk/blob/main/js.png" alt="JS" />
 <img align="center" src="https://github.com/igavelyuk/igavelyuk/blob/main/html.png" alt="HTML" />
 <img align="center" src="https://github.com/igavelyuk/igavelyuk/blob/main/css.png" alt="CSS" />
+</div>
 
 <!--
 **igavelyuk/igavelyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
