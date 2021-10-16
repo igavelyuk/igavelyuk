@@ -7,7 +7,7 @@
   <li style="font-size: 38px">😄 Working in the industry since 2016 (5y)</li>
   <li style="font-size: 38px">🌱 I’m currently learning how to become little more than web developer</li>
   <li style="font-size: 38px">🔭 I’m currently working on web marketplaces and web shops</li>
-  <li style="font-size: 38px">⚡ Fun fact: Never have jobs in my place and in my country. 3 Times apply for jobs under 400 USD per months and never get</li>
+  <li style="font-size: 38px">⚡ Fun fact: You will never know if you visiting profile after 10/17/2021 if you not start digging commits</li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
