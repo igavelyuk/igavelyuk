@@ -40,7 +40,7 @@
 <img align="center" src="https://github.com/igavelyuk/igavelyuk/blob/main/js.png" alt="JS" />
 <img align="center" src="https://github.com/igavelyuk/igavelyuk/blob/main/html.png" alt="HTML" />
 <img align="center" src="https://github.com/igavelyuk/igavelyuk/blob/main/css.png" alt="CSS" />
-<p> This images I'm generate from one of my node project </p>                                                                                         
+<p> This images I'm generate from one of my node.js project </p>                                                                                         
 </div>
                                                                                             
 <h3> Links for improvilg your README.md </h3>
