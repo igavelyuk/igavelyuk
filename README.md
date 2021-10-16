@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Igor Gavelyuk but everybody call me iGavelyuk and I'm not an apple fan.</h1>
 <h3 align="center">A passionate frontend developer from almost United States</h3
 <ul>
-  <li style="font-size: 38px"> ⚛️ My primary programming language is JavaScript, also using a lot PHP and BASH</li>
-  <li style="font-size: 38px">⚛️ My primary frameworks is Vue, Preact and React</li>
-  <li style="font-size: 38px">⚛️ My secondary languages is C++, HTML, CSS (SASS+SCSS), have experience to compile web pages as CGI scripts</li>
-  <li style="font-size: 38px">😄 Working in the industry since 2016 (5y)</li>
-  <li style="font-size: 38px">🌱 I’m currently learning how to become little more than web developer</li>
-  <li style="font-size: 38px">🔭 I’m currently working on web marketplaces and web shops</li>
-  <li style="font-size: 38px">⚡ Fun fact: You will never know if you visiting profile after 10/17/2021 if you not start digging commits</li>
+  <li style="font-size: 38px"> :orange_book: My primary programming language is JavaScript, also using a lot PHP and BASH</li>
+  <li style="font-size: 38px"> :blue_book: My primary frameworks is Vue, Preact and React</li>
+  <li style="font-size: 38px"> :notebook_with_decorative_cover: My secondary languages is C++, HTML, CSS (SASS+SCSS), have experience to compile web pages as CGI scripts</li>
+  <li style="font-size: 38px"> :factory: Working in the industry since 2016 (5y)</li>
+  <li style="font-size: 38px"> :carousel_horse: I’m currently learning how to become little more than web developer</li>
+  <li style="font-size: 38px"> :spider: I’m currently working on :spider_web: marketplaces and :spider_web: shops</li>
+  <li style="font-size: 38px"> :scream: Fun fact: You will never know if you visiting profile after 10/17/2021 if you not start digging commits :trollface: </li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,9 +40,11 @@
 <img align="center" src="https://github.com/igavelyuk/igavelyuk/blob/main/js.png" alt="JS" />
 <img align="center" src="https://github.com/igavelyuk/igavelyuk/blob/main/html.png" alt="HTML" />
 <img align="center" src="https://github.com/igavelyuk/igavelyuk/blob/main/css.png" alt="CSS" />
+<p> This images I'm generate from one of my node project </p>                                                                                         
 </div>
                                                                                             
 <h3> Links for improvilg your README.md </h3>
+<a href="https://gist.github.com/rxaviers/7360908" target="blank">https://gist.github.com/rxaviers/7360908</a>
 <a href="https://github.com/Ileriayo/markdown-badges" target="blank">https://github.com/Ileriayo/markdown-badges</a>
 <br/><a href="https://pufler.dev/git-badges/" target="blank">https://pufler.dev/git-badges/</a>
 <br/><a href="https://fsymbols.com/generators/carty/" target="blank">https://fsymbols.com/generators/carty/</a>
