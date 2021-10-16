@@ -41,3 +41,10 @@
 <img align="center" src="https://github.com/igavelyuk/igavelyuk/blob/main/html.png" alt="HTML" />
 <img align="center" src="https://github.com/igavelyuk/igavelyuk/blob/main/css.png" alt="CSS" />
 </div>
+                                                                                            
+<h3> Links for improvilg your README.md </h3>
+<a href="https://github.com/Ileriayo/markdown-badges" target="blank">https://github.com/Ileriayo/markdown-badges</a>
+<a href="https://pufler.dev/git-badges/" target="blank">https://pufler.dev/git-badges/</a>
+<a href="https://fsymbols.com/generators/carty/" target="blank">https://fsymbols.com/generators/carty/</a>
+<a href="https://shields.io/" target="blank">https://shields.io/</a>
+<a href="https://www.markdownguide.org/basic-syntax/" target="blank">https://www.markdownguide.org/basic-syntax/</a>
