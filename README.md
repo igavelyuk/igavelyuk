@@ -5,6 +5,7 @@
   <li style="font-size: 38px"> :blue_book: My primary frameworks is Vue, Preact and React, learning Angular</li>
   <li style="font-size: 38px"> :notebook_with_decorative_cover: My secondary languages is C++, HTML, CSS (SASS+SCSS), have experience to compile web pages as CGI scripts</li>
   <li style="font-size: 38px"> :factory: Working in the industry since 2016 (5y)</li>
+  <li style="font-size: 38px"> :factory: Total in programming from Quick Basic (1995) as hobby till now is about 27 years</li>
   <li style="font-size: 38px"> :carousel_horse: I’m currently learning how to become little more than web developer</li>
   <li style="font-size: 38px"> :spider: I’m currently working on :spider_web: marketplaces and :spider_web: shops</li>
   <li style="font-size: 38px"> :scream: Fun fact: You will never know if you visiting profile after 10/17/2021 if you not start digging commits :trollface: </li>
