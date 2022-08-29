@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Igor Gavelyuk but everybody call me iGavelyuk and I'm not an apple fan LOL</h1>
+<h2 align="center">Never use Macs in my life</h2>
 <h3 align="center">A passionate frontend developer from almost United States</h3
 <ul>
   <li style="font-size: 38px"> :orange_book: My primary programming language is JavaScript, also using a lot PHP and BASH</li>
